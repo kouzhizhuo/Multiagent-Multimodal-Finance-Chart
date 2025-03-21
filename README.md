@@ -1,4 +1,3 @@
-# Multiagent-Multimodal-Finance-Chart
 # Financial Chart Analysis Framework
 
 A powerful multi-agent framework for analyzing financial charts using advanced AI techniques. This framework combines computer vision, natural language processing, and financial analysis to provide intelligent insights about financial charts.
@@ -156,4 +155,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions and support, please open an issue in the repository.
+For questions and support, please open an issue in the repository. 
